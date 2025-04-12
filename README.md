@@ -1,2 +1,2 @@
 # Tugas-Absen-Pertemuan-7-Bootstrap
-<img src="[cuplikan layar 2025-04-12 115217.png](https://github.com/RizkyFirmansyah-com/Tugas-Absen-Pertemuan-7-Bootstrap/blob/main/Cuplikan%20layar%202025-04-12%20115217.png)" >
+<img src="https://github.com/RizkyFirmansyah-com/Tugas-Absen-Pertemuan-7-Bootstrap/blob/main/Cuplikan%20layar%202025-04-12%20115217.png" >
